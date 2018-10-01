@@ -11,7 +11,7 @@ namespace AudioDGRestarter
     {
         static void Main(string[] args)
         {
-            Console.Title = "Audio DG Restarter";
+            Console.Title = "Audio DG Restarter"; //Set Console title
             Process.Start("cmd", "/C taskkill /f /im audiodg.exe && audiodg.exe");
         }
     }
