@@ -1,0 +1,6 @@
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\bin\Release\AudioDGRestarter.exe.config
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\bin\Release\AudioDGRestarter.exe
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\bin\Release\AudioDGRestarter.pdb
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\obj\Release\AudioDGRestarter.csproj.CoreCompileInputs.cache
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\obj\Release\AudioDGRestarter.exe
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\AudioDGRestarter\AudioDGRestarter\obj\Release\AudioDGRestarter.pdb
